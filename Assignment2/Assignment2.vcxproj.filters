@@ -29,5 +29,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="a2test.in" />
+    <None Include="a2test.out" />
   </ItemGroup>
 </Project>

@@ -135,6 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="a2test.in" />
+    <None Include="a2test.out" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
